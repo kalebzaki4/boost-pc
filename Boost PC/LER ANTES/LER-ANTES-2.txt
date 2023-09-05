@@ -1,4 +1,3 @@
-Entendido, aqui está o resumo sem o uso de maiúsculas:
 
 1. O registro do teclado: os códigos fornecidos alteram o tamanho da fila de dados do teclado. Isso pode ser útil para aumentar a capacidade de armazenamento de dados de entrada do teclado, o que pode melhorar o desempenho em cenários de digitação intensiva ou com teclados de alta velocidade.
 
