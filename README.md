@@ -13,4 +13,4 @@ Seja você um novato ou um mestre da tecnologia, nosso repositório foi criado p
 
 Lembre-se, como um piloto responsável, sempre faça backup dos seus preciosos dados antes de realizar qualquer mudança. Este repositório é uma mina de ouro para otimização, mas é você quem conduz a jornada, de acordo com suas necessidades e sabedoria.
 
-Agradecemos sua visita ao repositório Boost-PC! Estamos ansiosos para acelerar seu PC e elevar sua experiência computacional para um novo patamar! 🚀💻
+Agradecemos sua visita ao repositório Boost-PC! Estamos ansiosos para acelerar seu PC e elevar sua experiência computacional para um novo patamar! 
